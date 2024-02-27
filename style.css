@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background: linear-gradient(to left, pink, gray,pink) !important; */
+}
+
+body{
+    background-color: yellow;
+}
+
+.add-btn{
+    text-decoration: none;
+}
